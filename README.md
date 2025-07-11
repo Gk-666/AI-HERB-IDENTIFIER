@@ -18,6 +18,7 @@ This is a Streamlit-based web application that uses Google's Gemini AI to identi
    pip install -r requirements.txt
    ```
 3. Get your Google Gemini API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
+
 4. Create a `.env` file in the root directory:
    ```bash
    cp .env.example .env
